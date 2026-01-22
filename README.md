@@ -1,4 +1,4 @@
-# Multi-View Image Generator: Synthetic Multi-Angle Dataset Creation
+# Multi-View Image Generator
 
 Multi-View Image Generator is a Python-based tool for creating synthetic multi-angle image datasets from a small set of object images.
 
